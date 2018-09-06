@@ -1,5 +1,5 @@
 # Washington DC Crime Map
-This is a project for the course DNSC 6211 Programming for Analytics
+This is an individual project for the course DNSC 6211 Programming for Analytics
 
 Youtube video link https://youtu.be/-u_sbMJ40kk
 
